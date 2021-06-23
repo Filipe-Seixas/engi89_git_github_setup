@@ -40,5 +40,3 @@ git push -u origin main  # push the changes to make them permanent on repo
 - If you get an error saying "Author identity unknown" when trying to commit or push any changes, try adding your username
 `git config --global user.email "you@example.com"`
 - If you try to push changes and it gets stuck with no error message, make sure you are using the SSH remote code and not HTTPS
-
-![Git Diagram](GitHub Diagram.png)
